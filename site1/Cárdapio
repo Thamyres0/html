@@ -7,10 +7,10 @@
 <table border="1" align="center">
 	<tr>
 		<td align="center"><img src="logo-RestauranteEspetacular.jpg" hspace="50" width="200"></td> 
-		<td align="center" colspan="2"><h2>Home | <a href="cardapio.html">Cardápio </a> | <a href="cardápio.html">Cardápiordapio </a></h2></td>
+		<td align="center" colspan="2"><h2> <a href="cardapio">Cárdapio</a> | Cardapio | <a href="cardapio">cardapio</a></h2></td>
 	</tr>
 	<tr>
-		<td align="center"  colspan="3"><h1>Restaurante Espetacular!</h1></td>
+		<td align="center"  colspan="3"><h1>cardapio</h1></td>
 	</tr>
 	<tr>
 		<td align="center"><img src="frangocomquiabo.jpg" height="250"  width="300" border="2" color="000000"></td>
@@ -37,6 +37,3 @@
 </table>
 </body>
 </html>
-
-
-<a href="cardapio.html">Cárdapio</a>
